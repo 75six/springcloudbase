@@ -8,7 +8,7 @@
   <artifactId>test</artifactId>
   <properties>
         <com.tuhu.webservice.version>1.5.5</com.tuhu.webservice.version>
-        <org.apache.poi.version>3.9</org.apache.poi.version>
+        <org.apache.poi.version>4.1.1</org.apache.poi.version>
         <org.apache.xmlbeans.version>2.3.0</org.apache.xmlbeans.version>
     </properties>
   <dependencies>
